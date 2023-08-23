@@ -1,0 +1,794 @@
+{
+  "status": "done",
+  "assets": {
+    "asset-manifest.json": {
+      "name": "asset-manifest.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\asset-manifest.json",
+      "publicPath": "http://localhost:3010/asset-manifest.json"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\index.html",
+      "publicPath": "http://localhost:3010/index.html"
+    },
+    "main.0723c9cf6878d45c6ec9.hot-update.js": {
+      "name": "main.0723c9cf6878d45c6ec9.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0723c9cf6878d45c6ec9.hot-update.js",
+      "publicPath": "http://localhost:3010/main.0723c9cf6878d45c6ec9.hot-update.js"
+    },
+    "main.0723c9cf6878d45c6ec9.hot-update.js.map": {
+      "name": "main.0723c9cf6878d45c6ec9.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0723c9cf6878d45c6ec9.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.0723c9cf6878d45c6ec9.hot-update.js.map"
+    },
+    "main.0723c9cf6878d45c6ec9.hot-update.json": {
+      "name": "main.0723c9cf6878d45c6ec9.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0723c9cf6878d45c6ec9.hot-update.json",
+      "publicPath": "http://localhost:3010/main.0723c9cf6878d45c6ec9.hot-update.json"
+    },
+    "main.08a89f659f7cd8368733.hot-update.js": {
+      "name": "main.08a89f659f7cd8368733.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.08a89f659f7cd8368733.hot-update.js",
+      "publicPath": "http://localhost:3010/main.08a89f659f7cd8368733.hot-update.js"
+    },
+    "main.08a89f659f7cd8368733.hot-update.js.map": {
+      "name": "main.08a89f659f7cd8368733.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.08a89f659f7cd8368733.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.08a89f659f7cd8368733.hot-update.js.map"
+    },
+    "main.08a89f659f7cd8368733.hot-update.json": {
+      "name": "main.08a89f659f7cd8368733.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.08a89f659f7cd8368733.hot-update.json",
+      "publicPath": "http://localhost:3010/main.08a89f659f7cd8368733.hot-update.json"
+    },
+    "main.0bf10c79267741a1183a.hot-update.js": {
+      "name": "main.0bf10c79267741a1183a.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0bf10c79267741a1183a.hot-update.js",
+      "publicPath": "http://localhost:3010/main.0bf10c79267741a1183a.hot-update.js"
+    },
+    "main.0bf10c79267741a1183a.hot-update.js.map": {
+      "name": "main.0bf10c79267741a1183a.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0bf10c79267741a1183a.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.0bf10c79267741a1183a.hot-update.js.map"
+    },
+    "main.0bf10c79267741a1183a.hot-update.json": {
+      "name": "main.0bf10c79267741a1183a.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0bf10c79267741a1183a.hot-update.json",
+      "publicPath": "http://localhost:3010/main.0bf10c79267741a1183a.hot-update.json"
+    },
+    "main.0f32030f0343dbf60c33.hot-update.js": {
+      "name": "main.0f32030f0343dbf60c33.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0f32030f0343dbf60c33.hot-update.js",
+      "publicPath": "http://localhost:3010/main.0f32030f0343dbf60c33.hot-update.js"
+    },
+    "main.0f32030f0343dbf60c33.hot-update.js.map": {
+      "name": "main.0f32030f0343dbf60c33.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0f32030f0343dbf60c33.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.0f32030f0343dbf60c33.hot-update.js.map"
+    },
+    "main.0f32030f0343dbf60c33.hot-update.json": {
+      "name": "main.0f32030f0343dbf60c33.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.0f32030f0343dbf60c33.hot-update.json",
+      "publicPath": "http://localhost:3010/main.0f32030f0343dbf60c33.hot-update.json"
+    },
+    "main.1096f8106f9a62733c53.hot-update.js": {
+      "name": "main.1096f8106f9a62733c53.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1096f8106f9a62733c53.hot-update.js",
+      "publicPath": "http://localhost:3010/main.1096f8106f9a62733c53.hot-update.js"
+    },
+    "main.1096f8106f9a62733c53.hot-update.js.map": {
+      "name": "main.1096f8106f9a62733c53.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1096f8106f9a62733c53.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.1096f8106f9a62733c53.hot-update.js.map"
+    },
+    "main.1096f8106f9a62733c53.hot-update.json": {
+      "name": "main.1096f8106f9a62733c53.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1096f8106f9a62733c53.hot-update.json",
+      "publicPath": "http://localhost:3010/main.1096f8106f9a62733c53.hot-update.json"
+    },
+    "main.10cbf37329537fa057ad.hot-update.js": {
+      "name": "main.10cbf37329537fa057ad.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.10cbf37329537fa057ad.hot-update.js",
+      "publicPath": "http://localhost:3010/main.10cbf37329537fa057ad.hot-update.js"
+    },
+    "main.10cbf37329537fa057ad.hot-update.js.map": {
+      "name": "main.10cbf37329537fa057ad.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.10cbf37329537fa057ad.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.10cbf37329537fa057ad.hot-update.js.map"
+    },
+    "main.10cbf37329537fa057ad.hot-update.json": {
+      "name": "main.10cbf37329537fa057ad.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.10cbf37329537fa057ad.hot-update.json",
+      "publicPath": "http://localhost:3010/main.10cbf37329537fa057ad.hot-update.json"
+    },
+    "main.17629950cd6c1fcd3d3e.hot-update.js": {
+      "name": "main.17629950cd6c1fcd3d3e.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.17629950cd6c1fcd3d3e.hot-update.js",
+      "publicPath": "http://localhost:3010/main.17629950cd6c1fcd3d3e.hot-update.js"
+    },
+    "main.17629950cd6c1fcd3d3e.hot-update.js.map": {
+      "name": "main.17629950cd6c1fcd3d3e.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.17629950cd6c1fcd3d3e.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.17629950cd6c1fcd3d3e.hot-update.js.map"
+    },
+    "main.17629950cd6c1fcd3d3e.hot-update.json": {
+      "name": "main.17629950cd6c1fcd3d3e.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.17629950cd6c1fcd3d3e.hot-update.json",
+      "publicPath": "http://localhost:3010/main.17629950cd6c1fcd3d3e.hot-update.json"
+    },
+    "main.1aace36b40194e70bff2.hot-update.js": {
+      "name": "main.1aace36b40194e70bff2.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1aace36b40194e70bff2.hot-update.js",
+      "publicPath": "http://localhost:3010/main.1aace36b40194e70bff2.hot-update.js"
+    },
+    "main.1aace36b40194e70bff2.hot-update.js.map": {
+      "name": "main.1aace36b40194e70bff2.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1aace36b40194e70bff2.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.1aace36b40194e70bff2.hot-update.js.map"
+    },
+    "main.1aace36b40194e70bff2.hot-update.json": {
+      "name": "main.1aace36b40194e70bff2.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1aace36b40194e70bff2.hot-update.json",
+      "publicPath": "http://localhost:3010/main.1aace36b40194e70bff2.hot-update.json"
+    },
+    "main.1dac08cb9a96002ce2da.hot-update.js": {
+      "name": "main.1dac08cb9a96002ce2da.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1dac08cb9a96002ce2da.hot-update.js",
+      "publicPath": "http://localhost:3010/main.1dac08cb9a96002ce2da.hot-update.js"
+    },
+    "main.1dac08cb9a96002ce2da.hot-update.js.map": {
+      "name": "main.1dac08cb9a96002ce2da.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1dac08cb9a96002ce2da.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.1dac08cb9a96002ce2da.hot-update.js.map"
+    },
+    "main.1dac08cb9a96002ce2da.hot-update.json": {
+      "name": "main.1dac08cb9a96002ce2da.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.1dac08cb9a96002ce2da.hot-update.json",
+      "publicPath": "http://localhost:3010/main.1dac08cb9a96002ce2da.hot-update.json"
+    },
+    "main.24410fe1fe31b1520748.hot-update.js": {
+      "name": "main.24410fe1fe31b1520748.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.24410fe1fe31b1520748.hot-update.js",
+      "publicPath": "http://localhost:3010/main.24410fe1fe31b1520748.hot-update.js"
+    },
+    "main.24410fe1fe31b1520748.hot-update.js.map": {
+      "name": "main.24410fe1fe31b1520748.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.24410fe1fe31b1520748.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.24410fe1fe31b1520748.hot-update.js.map"
+    },
+    "main.24410fe1fe31b1520748.hot-update.json": {
+      "name": "main.24410fe1fe31b1520748.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.24410fe1fe31b1520748.hot-update.json",
+      "publicPath": "http://localhost:3010/main.24410fe1fe31b1520748.hot-update.json"
+    },
+    "main.2bd5ee54631b4a410dfe.hot-update.js": {
+      "name": "main.2bd5ee54631b4a410dfe.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.2bd5ee54631b4a410dfe.hot-update.js",
+      "publicPath": "http://localhost:3010/main.2bd5ee54631b4a410dfe.hot-update.js"
+    },
+    "main.2bd5ee54631b4a410dfe.hot-update.js.map": {
+      "name": "main.2bd5ee54631b4a410dfe.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.2bd5ee54631b4a410dfe.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.2bd5ee54631b4a410dfe.hot-update.js.map"
+    },
+    "main.2bd5ee54631b4a410dfe.hot-update.json": {
+      "name": "main.2bd5ee54631b4a410dfe.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.2bd5ee54631b4a410dfe.hot-update.json",
+      "publicPath": "http://localhost:3010/main.2bd5ee54631b4a410dfe.hot-update.json"
+    },
+    "main.31b5d50e43b6b8663026.hot-update.js": {
+      "name": "main.31b5d50e43b6b8663026.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.31b5d50e43b6b8663026.hot-update.js",
+      "publicPath": "http://localhost:3010/main.31b5d50e43b6b8663026.hot-update.js"
+    },
+    "main.31b5d50e43b6b8663026.hot-update.js.map": {
+      "name": "main.31b5d50e43b6b8663026.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.31b5d50e43b6b8663026.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.31b5d50e43b6b8663026.hot-update.js.map"
+    },
+    "main.31b5d50e43b6b8663026.hot-update.json": {
+      "name": "main.31b5d50e43b6b8663026.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.31b5d50e43b6b8663026.hot-update.json",
+      "publicPath": "http://localhost:3010/main.31b5d50e43b6b8663026.hot-update.json"
+    },
+    "main.3764bec4c6f749352ba9.hot-update.js": {
+      "name": "main.3764bec4c6f749352ba9.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.3764bec4c6f749352ba9.hot-update.js",
+      "publicPath": "http://localhost:3010/main.3764bec4c6f749352ba9.hot-update.js"
+    },
+    "main.3764bec4c6f749352ba9.hot-update.js.map": {
+      "name": "main.3764bec4c6f749352ba9.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.3764bec4c6f749352ba9.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.3764bec4c6f749352ba9.hot-update.js.map"
+    },
+    "main.3764bec4c6f749352ba9.hot-update.json": {
+      "name": "main.3764bec4c6f749352ba9.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.3764bec4c6f749352ba9.hot-update.json",
+      "publicPath": "http://localhost:3010/main.3764bec4c6f749352ba9.hot-update.json"
+    },
+    "main.3a85680bdff617e24ff7.hot-update.js": {
+      "name": "main.3a85680bdff617e24ff7.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.3a85680bdff617e24ff7.hot-update.js",
+      "publicPath": "http://localhost:3010/main.3a85680bdff617e24ff7.hot-update.js"
+    },
+    "main.3a85680bdff617e24ff7.hot-update.js.map": {
+      "name": "main.3a85680bdff617e24ff7.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.3a85680bdff617e24ff7.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.3a85680bdff617e24ff7.hot-update.js.map"
+    },
+    "main.3a85680bdff617e24ff7.hot-update.json": {
+      "name": "main.3a85680bdff617e24ff7.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.3a85680bdff617e24ff7.hot-update.json",
+      "publicPath": "http://localhost:3010/main.3a85680bdff617e24ff7.hot-update.json"
+    },
+    "main.43df536ab25ad3eebbeb.hot-update.js": {
+      "name": "main.43df536ab25ad3eebbeb.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.43df536ab25ad3eebbeb.hot-update.js",
+      "publicPath": "http://localhost:3010/main.43df536ab25ad3eebbeb.hot-update.js"
+    },
+    "main.43df536ab25ad3eebbeb.hot-update.js.map": {
+      "name": "main.43df536ab25ad3eebbeb.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.43df536ab25ad3eebbeb.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.43df536ab25ad3eebbeb.hot-update.js.map"
+    },
+    "main.43df536ab25ad3eebbeb.hot-update.json": {
+      "name": "main.43df536ab25ad3eebbeb.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.43df536ab25ad3eebbeb.hot-update.json",
+      "publicPath": "http://localhost:3010/main.43df536ab25ad3eebbeb.hot-update.json"
+    },
+    "main.4592747999b05b9693ca.hot-update.js": {
+      "name": "main.4592747999b05b9693ca.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.4592747999b05b9693ca.hot-update.js",
+      "publicPath": "http://localhost:3010/main.4592747999b05b9693ca.hot-update.js"
+    },
+    "main.4592747999b05b9693ca.hot-update.js.map": {
+      "name": "main.4592747999b05b9693ca.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.4592747999b05b9693ca.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.4592747999b05b9693ca.hot-update.js.map"
+    },
+    "main.4592747999b05b9693ca.hot-update.json": {
+      "name": "main.4592747999b05b9693ca.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.4592747999b05b9693ca.hot-update.json",
+      "publicPath": "http://localhost:3010/main.4592747999b05b9693ca.hot-update.json"
+    },
+    "main.496a224a9c1d462e87e2.hot-update.js": {
+      "name": "main.496a224a9c1d462e87e2.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.496a224a9c1d462e87e2.hot-update.js",
+      "publicPath": "http://localhost:3010/main.496a224a9c1d462e87e2.hot-update.js"
+    },
+    "main.496a224a9c1d462e87e2.hot-update.js.map": {
+      "name": "main.496a224a9c1d462e87e2.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.496a224a9c1d462e87e2.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.496a224a9c1d462e87e2.hot-update.js.map"
+    },
+    "main.496a224a9c1d462e87e2.hot-update.json": {
+      "name": "main.496a224a9c1d462e87e2.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.496a224a9c1d462e87e2.hot-update.json",
+      "publicPath": "http://localhost:3010/main.496a224a9c1d462e87e2.hot-update.json"
+    },
+    "main.51218114df604a30aa4d.hot-update.js": {
+      "name": "main.51218114df604a30aa4d.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.51218114df604a30aa4d.hot-update.js",
+      "publicPath": "http://localhost:3010/main.51218114df604a30aa4d.hot-update.js"
+    },
+    "main.51218114df604a30aa4d.hot-update.js.map": {
+      "name": "main.51218114df604a30aa4d.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.51218114df604a30aa4d.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.51218114df604a30aa4d.hot-update.js.map"
+    },
+    "main.51218114df604a30aa4d.hot-update.json": {
+      "name": "main.51218114df604a30aa4d.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.51218114df604a30aa4d.hot-update.json",
+      "publicPath": "http://localhost:3010/main.51218114df604a30aa4d.hot-update.json"
+    },
+    "main.549bc01d8c9166f9a2c7.hot-update.js": {
+      "name": "main.549bc01d8c9166f9a2c7.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.549bc01d8c9166f9a2c7.hot-update.js",
+      "publicPath": "http://localhost:3010/main.549bc01d8c9166f9a2c7.hot-update.js"
+    },
+    "main.549bc01d8c9166f9a2c7.hot-update.js.map": {
+      "name": "main.549bc01d8c9166f9a2c7.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.549bc01d8c9166f9a2c7.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.549bc01d8c9166f9a2c7.hot-update.js.map"
+    },
+    "main.549bc01d8c9166f9a2c7.hot-update.json": {
+      "name": "main.549bc01d8c9166f9a2c7.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.549bc01d8c9166f9a2c7.hot-update.json",
+      "publicPath": "http://localhost:3010/main.549bc01d8c9166f9a2c7.hot-update.json"
+    },
+    "main.55337a9361533c0bd11b.hot-update.js": {
+      "name": "main.55337a9361533c0bd11b.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.55337a9361533c0bd11b.hot-update.js",
+      "publicPath": "http://localhost:3010/main.55337a9361533c0bd11b.hot-update.js"
+    },
+    "main.55337a9361533c0bd11b.hot-update.js.map": {
+      "name": "main.55337a9361533c0bd11b.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.55337a9361533c0bd11b.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.55337a9361533c0bd11b.hot-update.js.map"
+    },
+    "main.55337a9361533c0bd11b.hot-update.json": {
+      "name": "main.55337a9361533c0bd11b.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.55337a9361533c0bd11b.hot-update.json",
+      "publicPath": "http://localhost:3010/main.55337a9361533c0bd11b.hot-update.json"
+    },
+    "main.5e0ada613b7d5f09a8a4.hot-update.js": {
+      "name": "main.5e0ada613b7d5f09a8a4.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.5e0ada613b7d5f09a8a4.hot-update.js",
+      "publicPath": "http://localhost:3010/main.5e0ada613b7d5f09a8a4.hot-update.js"
+    },
+    "main.5e0ada613b7d5f09a8a4.hot-update.js.map": {
+      "name": "main.5e0ada613b7d5f09a8a4.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.5e0ada613b7d5f09a8a4.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.5e0ada613b7d5f09a8a4.hot-update.js.map"
+    },
+    "main.5e0ada613b7d5f09a8a4.hot-update.json": {
+      "name": "main.5e0ada613b7d5f09a8a4.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.5e0ada613b7d5f09a8a4.hot-update.json",
+      "publicPath": "http://localhost:3010/main.5e0ada613b7d5f09a8a4.hot-update.json"
+    },
+    "main.6252f8c02c59bfd94cd8.hot-update.js": {
+      "name": "main.6252f8c02c59bfd94cd8.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6252f8c02c59bfd94cd8.hot-update.js",
+      "publicPath": "http://localhost:3010/main.6252f8c02c59bfd94cd8.hot-update.js"
+    },
+    "main.6252f8c02c59bfd94cd8.hot-update.js.map": {
+      "name": "main.6252f8c02c59bfd94cd8.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6252f8c02c59bfd94cd8.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.6252f8c02c59bfd94cd8.hot-update.js.map"
+    },
+    "main.6252f8c02c59bfd94cd8.hot-update.json": {
+      "name": "main.6252f8c02c59bfd94cd8.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6252f8c02c59bfd94cd8.hot-update.json",
+      "publicPath": "http://localhost:3010/main.6252f8c02c59bfd94cd8.hot-update.json"
+    },
+    "main.65c81cc15cc64f8dd406.hot-update.js": {
+      "name": "main.65c81cc15cc64f8dd406.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.65c81cc15cc64f8dd406.hot-update.js",
+      "publicPath": "http://localhost:3010/main.65c81cc15cc64f8dd406.hot-update.js"
+    },
+    "main.65c81cc15cc64f8dd406.hot-update.js.map": {
+      "name": "main.65c81cc15cc64f8dd406.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.65c81cc15cc64f8dd406.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.65c81cc15cc64f8dd406.hot-update.js.map"
+    },
+    "main.65c81cc15cc64f8dd406.hot-update.json": {
+      "name": "main.65c81cc15cc64f8dd406.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.65c81cc15cc64f8dd406.hot-update.json",
+      "publicPath": "http://localhost:3010/main.65c81cc15cc64f8dd406.hot-update.json"
+    },
+    "main.677653e4c204c6d5978e.hot-update.js": {
+      "name": "main.677653e4c204c6d5978e.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.677653e4c204c6d5978e.hot-update.js",
+      "publicPath": "http://localhost:3010/main.677653e4c204c6d5978e.hot-update.js"
+    },
+    "main.677653e4c204c6d5978e.hot-update.js.map": {
+      "name": "main.677653e4c204c6d5978e.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.677653e4c204c6d5978e.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.677653e4c204c6d5978e.hot-update.js.map"
+    },
+    "main.677653e4c204c6d5978e.hot-update.json": {
+      "name": "main.677653e4c204c6d5978e.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.677653e4c204c6d5978e.hot-update.json",
+      "publicPath": "http://localhost:3010/main.677653e4c204c6d5978e.hot-update.json"
+    },
+    "main.6ac341f211790f1c20f3.hot-update.js": {
+      "name": "main.6ac341f211790f1c20f3.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6ac341f211790f1c20f3.hot-update.js",
+      "publicPath": "http://localhost:3010/main.6ac341f211790f1c20f3.hot-update.js"
+    },
+    "main.6ac341f211790f1c20f3.hot-update.js.map": {
+      "name": "main.6ac341f211790f1c20f3.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6ac341f211790f1c20f3.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.6ac341f211790f1c20f3.hot-update.js.map"
+    },
+    "main.6ac341f211790f1c20f3.hot-update.json": {
+      "name": "main.6ac341f211790f1c20f3.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6ac341f211790f1c20f3.hot-update.json",
+      "publicPath": "http://localhost:3010/main.6ac341f211790f1c20f3.hot-update.json"
+    },
+    "main.6b29f5111a5e74a4f09d.hot-update.js": {
+      "name": "main.6b29f5111a5e74a4f09d.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6b29f5111a5e74a4f09d.hot-update.js",
+      "publicPath": "http://localhost:3010/main.6b29f5111a5e74a4f09d.hot-update.js"
+    },
+    "main.6b29f5111a5e74a4f09d.hot-update.js.map": {
+      "name": "main.6b29f5111a5e74a4f09d.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6b29f5111a5e74a4f09d.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.6b29f5111a5e74a4f09d.hot-update.js.map"
+    },
+    "main.6b29f5111a5e74a4f09d.hot-update.json": {
+      "name": "main.6b29f5111a5e74a4f09d.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.6b29f5111a5e74a4f09d.hot-update.json",
+      "publicPath": "http://localhost:3010/main.6b29f5111a5e74a4f09d.hot-update.json"
+    },
+    "main.70c6f8645d9cb3cb558a.hot-update.js": {
+      "name": "main.70c6f8645d9cb3cb558a.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.70c6f8645d9cb3cb558a.hot-update.js",
+      "publicPath": "http://localhost:3010/main.70c6f8645d9cb3cb558a.hot-update.js"
+    },
+    "main.70c6f8645d9cb3cb558a.hot-update.js.map": {
+      "name": "main.70c6f8645d9cb3cb558a.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.70c6f8645d9cb3cb558a.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.70c6f8645d9cb3cb558a.hot-update.js.map"
+    },
+    "main.70c6f8645d9cb3cb558a.hot-update.json": {
+      "name": "main.70c6f8645d9cb3cb558a.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.70c6f8645d9cb3cb558a.hot-update.json",
+      "publicPath": "http://localhost:3010/main.70c6f8645d9cb3cb558a.hot-update.json"
+    },
+    "main.724d30baa8c6f2b28aaf.hot-update.js": {
+      "name": "main.724d30baa8c6f2b28aaf.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.724d30baa8c6f2b28aaf.hot-update.js",
+      "publicPath": "http://localhost:3010/main.724d30baa8c6f2b28aaf.hot-update.js"
+    },
+    "main.724d30baa8c6f2b28aaf.hot-update.js.map": {
+      "name": "main.724d30baa8c6f2b28aaf.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.724d30baa8c6f2b28aaf.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.724d30baa8c6f2b28aaf.hot-update.js.map"
+    },
+    "main.724d30baa8c6f2b28aaf.hot-update.json": {
+      "name": "main.724d30baa8c6f2b28aaf.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.724d30baa8c6f2b28aaf.hot-update.json",
+      "publicPath": "http://localhost:3010/main.724d30baa8c6f2b28aaf.hot-update.json"
+    },
+    "main.74d6a5e1568870bd217e.hot-update.js": {
+      "name": "main.74d6a5e1568870bd217e.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.74d6a5e1568870bd217e.hot-update.js",
+      "publicPath": "http://localhost:3010/main.74d6a5e1568870bd217e.hot-update.js"
+    },
+    "main.74d6a5e1568870bd217e.hot-update.js.map": {
+      "name": "main.74d6a5e1568870bd217e.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.74d6a5e1568870bd217e.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.74d6a5e1568870bd217e.hot-update.js.map"
+    },
+    "main.74d6a5e1568870bd217e.hot-update.json": {
+      "name": "main.74d6a5e1568870bd217e.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.74d6a5e1568870bd217e.hot-update.json",
+      "publicPath": "http://localhost:3010/main.74d6a5e1568870bd217e.hot-update.json"
+    },
+    "main.77463a39ab6202afa5b5.hot-update.js": {
+      "name": "main.77463a39ab6202afa5b5.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.77463a39ab6202afa5b5.hot-update.js",
+      "publicPath": "http://localhost:3010/main.77463a39ab6202afa5b5.hot-update.js"
+    },
+    "main.77463a39ab6202afa5b5.hot-update.js.map": {
+      "name": "main.77463a39ab6202afa5b5.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.77463a39ab6202afa5b5.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.77463a39ab6202afa5b5.hot-update.js.map"
+    },
+    "main.77463a39ab6202afa5b5.hot-update.json": {
+      "name": "main.77463a39ab6202afa5b5.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.77463a39ab6202afa5b5.hot-update.json",
+      "publicPath": "http://localhost:3010/main.77463a39ab6202afa5b5.hot-update.json"
+    },
+    "main.7ac1d60a1a77e0dc65c0.hot-update.js": {
+      "name": "main.7ac1d60a1a77e0dc65c0.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.7ac1d60a1a77e0dc65c0.hot-update.js",
+      "publicPath": "http://localhost:3010/main.7ac1d60a1a77e0dc65c0.hot-update.js"
+    },
+    "main.7ac1d60a1a77e0dc65c0.hot-update.js.map": {
+      "name": "main.7ac1d60a1a77e0dc65c0.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.7ac1d60a1a77e0dc65c0.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.7ac1d60a1a77e0dc65c0.hot-update.js.map"
+    },
+    "main.7ac1d60a1a77e0dc65c0.hot-update.json": {
+      "name": "main.7ac1d60a1a77e0dc65c0.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.7ac1d60a1a77e0dc65c0.hot-update.json",
+      "publicPath": "http://localhost:3010/main.7ac1d60a1a77e0dc65c0.hot-update.json"
+    },
+    "main.822c86dad691145d58e9.hot-update.js": {
+      "name": "main.822c86dad691145d58e9.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.822c86dad691145d58e9.hot-update.js",
+      "publicPath": "http://localhost:3010/main.822c86dad691145d58e9.hot-update.js"
+    },
+    "main.822c86dad691145d58e9.hot-update.js.map": {
+      "name": "main.822c86dad691145d58e9.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.822c86dad691145d58e9.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.822c86dad691145d58e9.hot-update.js.map"
+    },
+    "main.822c86dad691145d58e9.hot-update.json": {
+      "name": "main.822c86dad691145d58e9.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.822c86dad691145d58e9.hot-update.json",
+      "publicPath": "http://localhost:3010/main.822c86dad691145d58e9.hot-update.json"
+    },
+    "main.83f9f58ba526ba4685f2.hot-update.js": {
+      "name": "main.83f9f58ba526ba4685f2.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.83f9f58ba526ba4685f2.hot-update.js",
+      "publicPath": "http://localhost:3010/main.83f9f58ba526ba4685f2.hot-update.js"
+    },
+    "main.83f9f58ba526ba4685f2.hot-update.js.map": {
+      "name": "main.83f9f58ba526ba4685f2.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.83f9f58ba526ba4685f2.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.83f9f58ba526ba4685f2.hot-update.js.map"
+    },
+    "main.83f9f58ba526ba4685f2.hot-update.json": {
+      "name": "main.83f9f58ba526ba4685f2.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.83f9f58ba526ba4685f2.hot-update.json",
+      "publicPath": "http://localhost:3010/main.83f9f58ba526ba4685f2.hot-update.json"
+    },
+    "main.8951c8c9cfad1dd4af10.hot-update.js": {
+      "name": "main.8951c8c9cfad1dd4af10.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.8951c8c9cfad1dd4af10.hot-update.js",
+      "publicPath": "http://localhost:3010/main.8951c8c9cfad1dd4af10.hot-update.js"
+    },
+    "main.8951c8c9cfad1dd4af10.hot-update.js.map": {
+      "name": "main.8951c8c9cfad1dd4af10.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.8951c8c9cfad1dd4af10.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.8951c8c9cfad1dd4af10.hot-update.js.map"
+    },
+    "main.8951c8c9cfad1dd4af10.hot-update.json": {
+      "name": "main.8951c8c9cfad1dd4af10.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.8951c8c9cfad1dd4af10.hot-update.json",
+      "publicPath": "http://localhost:3010/main.8951c8c9cfad1dd4af10.hot-update.json"
+    },
+    "main.8a6fbf11e029c436fcb3.hot-update.js": {
+      "name": "main.8a6fbf11e029c436fcb3.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.8a6fbf11e029c436fcb3.hot-update.js",
+      "publicPath": "http://localhost:3010/main.8a6fbf11e029c436fcb3.hot-update.js"
+    },
+    "main.8a6fbf11e029c436fcb3.hot-update.js.map": {
+      "name": "main.8a6fbf11e029c436fcb3.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.8a6fbf11e029c436fcb3.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.8a6fbf11e029c436fcb3.hot-update.js.map"
+    },
+    "main.8a6fbf11e029c436fcb3.hot-update.json": {
+      "name": "main.8a6fbf11e029c436fcb3.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.8a6fbf11e029c436fcb3.hot-update.json",
+      "publicPath": "http://localhost:3010/main.8a6fbf11e029c436fcb3.hot-update.json"
+    },
+    "main.9169c1634fe642db1cb4.hot-update.js": {
+      "name": "main.9169c1634fe642db1cb4.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9169c1634fe642db1cb4.hot-update.js",
+      "publicPath": "http://localhost:3010/main.9169c1634fe642db1cb4.hot-update.js"
+    },
+    "main.9169c1634fe642db1cb4.hot-update.js.map": {
+      "name": "main.9169c1634fe642db1cb4.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9169c1634fe642db1cb4.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.9169c1634fe642db1cb4.hot-update.js.map"
+    },
+    "main.9169c1634fe642db1cb4.hot-update.json": {
+      "name": "main.9169c1634fe642db1cb4.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9169c1634fe642db1cb4.hot-update.json",
+      "publicPath": "http://localhost:3010/main.9169c1634fe642db1cb4.hot-update.json"
+    },
+    "main.9350272975a15a018489.hot-update.js": {
+      "name": "main.9350272975a15a018489.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9350272975a15a018489.hot-update.js",
+      "publicPath": "http://localhost:3010/main.9350272975a15a018489.hot-update.js"
+    },
+    "main.9350272975a15a018489.hot-update.js.map": {
+      "name": "main.9350272975a15a018489.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9350272975a15a018489.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.9350272975a15a018489.hot-update.js.map"
+    },
+    "main.9350272975a15a018489.hot-update.json": {
+      "name": "main.9350272975a15a018489.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9350272975a15a018489.hot-update.json",
+      "publicPath": "http://localhost:3010/main.9350272975a15a018489.hot-update.json"
+    },
+    "main.954e143d970c7e5f1d4a.hot-update.js": {
+      "name": "main.954e143d970c7e5f1d4a.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.954e143d970c7e5f1d4a.hot-update.js",
+      "publicPath": "http://localhost:3010/main.954e143d970c7e5f1d4a.hot-update.js"
+    },
+    "main.954e143d970c7e5f1d4a.hot-update.js.map": {
+      "name": "main.954e143d970c7e5f1d4a.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.954e143d970c7e5f1d4a.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.954e143d970c7e5f1d4a.hot-update.js.map"
+    },
+    "main.954e143d970c7e5f1d4a.hot-update.json": {
+      "name": "main.954e143d970c7e5f1d4a.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.954e143d970c7e5f1d4a.hot-update.json",
+      "publicPath": "http://localhost:3010/main.954e143d970c7e5f1d4a.hot-update.json"
+    },
+    "main.9d4ea4511b7bba76e3b8.hot-update.js": {
+      "name": "main.9d4ea4511b7bba76e3b8.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9d4ea4511b7bba76e3b8.hot-update.js",
+      "publicPath": "http://localhost:3010/main.9d4ea4511b7bba76e3b8.hot-update.js"
+    },
+    "main.9d4ea4511b7bba76e3b8.hot-update.js.map": {
+      "name": "main.9d4ea4511b7bba76e3b8.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9d4ea4511b7bba76e3b8.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.9d4ea4511b7bba76e3b8.hot-update.js.map"
+    },
+    "main.9d4ea4511b7bba76e3b8.hot-update.json": {
+      "name": "main.9d4ea4511b7bba76e3b8.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9d4ea4511b7bba76e3b8.hot-update.json",
+      "publicPath": "http://localhost:3010/main.9d4ea4511b7bba76e3b8.hot-update.json"
+    },
+    "main.9f4882223c90429b87a0.hot-update.js": {
+      "name": "main.9f4882223c90429b87a0.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9f4882223c90429b87a0.hot-update.js",
+      "publicPath": "http://localhost:3010/main.9f4882223c90429b87a0.hot-update.js"
+    },
+    "main.9f4882223c90429b87a0.hot-update.js.map": {
+      "name": "main.9f4882223c90429b87a0.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9f4882223c90429b87a0.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.9f4882223c90429b87a0.hot-update.js.map"
+    },
+    "main.9f4882223c90429b87a0.hot-update.json": {
+      "name": "main.9f4882223c90429b87a0.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.9f4882223c90429b87a0.hot-update.json",
+      "publicPath": "http://localhost:3010/main.9f4882223c90429b87a0.hot-update.json"
+    },
+    "main.ae855ccd6a827f41323d.hot-update.js": {
+      "name": "main.ae855ccd6a827f41323d.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ae855ccd6a827f41323d.hot-update.js",
+      "publicPath": "http://localhost:3010/main.ae855ccd6a827f41323d.hot-update.js"
+    },
+    "main.ae855ccd6a827f41323d.hot-update.js.map": {
+      "name": "main.ae855ccd6a827f41323d.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ae855ccd6a827f41323d.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.ae855ccd6a827f41323d.hot-update.js.map"
+    },
+    "main.ae855ccd6a827f41323d.hot-update.json": {
+      "name": "main.ae855ccd6a827f41323d.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ae855ccd6a827f41323d.hot-update.json",
+      "publicPath": "http://localhost:3010/main.ae855ccd6a827f41323d.hot-update.json"
+    },
+    "main.c16ee429620f6b4ffd53.hot-update.js": {
+      "name": "main.c16ee429620f6b4ffd53.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.c16ee429620f6b4ffd53.hot-update.js",
+      "publicPath": "http://localhost:3010/main.c16ee429620f6b4ffd53.hot-update.js"
+    },
+    "main.c16ee429620f6b4ffd53.hot-update.js.map": {
+      "name": "main.c16ee429620f6b4ffd53.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.c16ee429620f6b4ffd53.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.c16ee429620f6b4ffd53.hot-update.js.map"
+    },
+    "main.c16ee429620f6b4ffd53.hot-update.json": {
+      "name": "main.c16ee429620f6b4ffd53.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.c16ee429620f6b4ffd53.hot-update.json",
+      "publicPath": "http://localhost:3010/main.c16ee429620f6b4ffd53.hot-update.json"
+    },
+    "main.c25a92067d9c4f93fd15.hot-update.js": {
+      "name": "main.c25a92067d9c4f93fd15.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.c25a92067d9c4f93fd15.hot-update.js",
+      "publicPath": "http://localhost:3010/main.c25a92067d9c4f93fd15.hot-update.js"
+    },
+    "main.c25a92067d9c4f93fd15.hot-update.js.map": {
+      "name": "main.c25a92067d9c4f93fd15.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.c25a92067d9c4f93fd15.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.c25a92067d9c4f93fd15.hot-update.js.map"
+    },
+    "main.c25a92067d9c4f93fd15.hot-update.json": {
+      "name": "main.c25a92067d9c4f93fd15.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.c25a92067d9c4f93fd15.hot-update.json",
+      "publicPath": "http://localhost:3010/main.c25a92067d9c4f93fd15.hot-update.json"
+    },
+    "main.ca4eeb03fc6b8a3c2a62.hot-update.js": {
+      "name": "main.ca4eeb03fc6b8a3c2a62.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ca4eeb03fc6b8a3c2a62.hot-update.js",
+      "publicPath": "http://localhost:3010/main.ca4eeb03fc6b8a3c2a62.hot-update.js"
+    },
+    "main.ca4eeb03fc6b8a3c2a62.hot-update.js.map": {
+      "name": "main.ca4eeb03fc6b8a3c2a62.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ca4eeb03fc6b8a3c2a62.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.ca4eeb03fc6b8a3c2a62.hot-update.js.map"
+    },
+    "main.ca4eeb03fc6b8a3c2a62.hot-update.json": {
+      "name": "main.ca4eeb03fc6b8a3c2a62.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ca4eeb03fc6b8a3c2a62.hot-update.json",
+      "publicPath": "http://localhost:3010/main.ca4eeb03fc6b8a3c2a62.hot-update.json"
+    },
+    "main.d5c8d32643565f064203.hot-update.js": {
+      "name": "main.d5c8d32643565f064203.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.d5c8d32643565f064203.hot-update.js",
+      "publicPath": "http://localhost:3010/main.d5c8d32643565f064203.hot-update.js"
+    },
+    "main.d5c8d32643565f064203.hot-update.js.map": {
+      "name": "main.d5c8d32643565f064203.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.d5c8d32643565f064203.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.d5c8d32643565f064203.hot-update.js.map"
+    },
+    "main.d5c8d32643565f064203.hot-update.json": {
+      "name": "main.d5c8d32643565f064203.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.d5c8d32643565f064203.hot-update.json",
+      "publicPath": "http://localhost:3010/main.d5c8d32643565f064203.hot-update.json"
+    },
+    "main.d9b3ef715e152c3c8e2f.hot-update.js": {
+      "name": "main.d9b3ef715e152c3c8e2f.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.d9b3ef715e152c3c8e2f.hot-update.js",
+      "publicPath": "http://localhost:3010/main.d9b3ef715e152c3c8e2f.hot-update.js"
+    },
+    "main.d9b3ef715e152c3c8e2f.hot-update.js.map": {
+      "name": "main.d9b3ef715e152c3c8e2f.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.d9b3ef715e152c3c8e2f.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.d9b3ef715e152c3c8e2f.hot-update.js.map"
+    },
+    "main.d9b3ef715e152c3c8e2f.hot-update.json": {
+      "name": "main.d9b3ef715e152c3c8e2f.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.d9b3ef715e152c3c8e2f.hot-update.json",
+      "publicPath": "http://localhost:3010/main.d9b3ef715e152c3c8e2f.hot-update.json"
+    },
+    "main.dd6f72bbe0472c33217f.hot-update.js": {
+      "name": "main.dd6f72bbe0472c33217f.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.dd6f72bbe0472c33217f.hot-update.js",
+      "publicPath": "http://localhost:3010/main.dd6f72bbe0472c33217f.hot-update.js"
+    },
+    "main.dd6f72bbe0472c33217f.hot-update.js.map": {
+      "name": "main.dd6f72bbe0472c33217f.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.dd6f72bbe0472c33217f.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.dd6f72bbe0472c33217f.hot-update.js.map"
+    },
+    "main.dd6f72bbe0472c33217f.hot-update.json": {
+      "name": "main.dd6f72bbe0472c33217f.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.dd6f72bbe0472c33217f.hot-update.json",
+      "publicPath": "http://localhost:3010/main.dd6f72bbe0472c33217f.hot-update.json"
+    },
+    "main.e2cb671b03501e7c6f85.hot-update.js": {
+      "name": "main.e2cb671b03501e7c6f85.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.e2cb671b03501e7c6f85.hot-update.js",
+      "publicPath": "http://localhost:3010/main.e2cb671b03501e7c6f85.hot-update.js"
+    },
+    "main.e2cb671b03501e7c6f85.hot-update.js.map": {
+      "name": "main.e2cb671b03501e7c6f85.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.e2cb671b03501e7c6f85.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.e2cb671b03501e7c6f85.hot-update.js.map"
+    },
+    "main.e2cb671b03501e7c6f85.hot-update.json": {
+      "name": "main.e2cb671b03501e7c6f85.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.e2cb671b03501e7c6f85.hot-update.json",
+      "publicPath": "http://localhost:3010/main.e2cb671b03501e7c6f85.hot-update.json"
+    },
+    "main.e38e2f2a76898862b5ff.hot-update.js": {
+      "name": "main.e38e2f2a76898862b5ff.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.e38e2f2a76898862b5ff.hot-update.js",
+      "publicPath": "http://localhost:3010/main.e38e2f2a76898862b5ff.hot-update.js"
+    },
+    "main.e38e2f2a76898862b5ff.hot-update.js.map": {
+      "name": "main.e38e2f2a76898862b5ff.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.e38e2f2a76898862b5ff.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.e38e2f2a76898862b5ff.hot-update.js.map"
+    },
+    "main.e38e2f2a76898862b5ff.hot-update.json": {
+      "name": "main.e38e2f2a76898862b5ff.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.e38e2f2a76898862b5ff.hot-update.json",
+      "publicPath": "http://localhost:3010/main.e38e2f2a76898862b5ff.hot-update.json"
+    },
+    "main.ef94786ea1fe43136b3d.hot-update.js": {
+      "name": "main.ef94786ea1fe43136b3d.hot-update.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ef94786ea1fe43136b3d.hot-update.js",
+      "publicPath": "http://localhost:3010/main.ef94786ea1fe43136b3d.hot-update.js"
+    },
+    "main.ef94786ea1fe43136b3d.hot-update.js.map": {
+      "name": "main.ef94786ea1fe43136b3d.hot-update.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ef94786ea1fe43136b3d.hot-update.js.map",
+      "publicPath": "http://localhost:3010/main.ef94786ea1fe43136b3d.hot-update.js.map"
+    },
+    "main.ef94786ea1fe43136b3d.hot-update.json": {
+      "name": "main.ef94786ea1fe43136b3d.hot-update.json",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\main.ef94786ea1fe43136b3d.hot-update.json",
+      "publicPath": "http://localhost:3010/main.ef94786ea1fe43136b3d.hot-update.json"
+    },
+    "static/js/bundle.js": {
+      "name": "static/js/bundle.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\static\\js\\bundle.js",
+      "publicPath": "http://localhost:3010/static/js/bundle.js"
+    },
+    "static/js/bundle.js.map": {
+      "name": "static/js/bundle.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\static\\js\\bundle.js.map",
+      "publicPath": "http://localhost:3010/static/js/bundle.js.map"
+    },
+    "static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js": {
+      "name": "static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\static\\js\\node_modules_web-vitals_dist_web-vitals_js.chunk.js",
+      "publicPath": "http://localhost:3010/static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js"
+    },
+    "static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js.map": {
+      "name": "static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js.map",
+      "path": "D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\dist\\static\\js\\node_modules_web-vitals_dist_web-vitals_js.chunk.js.map",
+      "publicPath": "http://localhost:3010/static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js.map"
+    }
+  },
+  "chunks": {
+    "main": [
+      "static/js/bundle.js",
+      "main.6b29f5111a5e74a4f09d.hot-update.js"
+    ]
+  },
+  "publicPath": "http://localhost:3010/",
+  "error": "ModuleBuildError",
+  "message": "Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\src\\pages\\DailyUpdates\\CreateDailyUpdate.js: Identifier directly after number. (22:68)\n\n  20 |                 </ReferenceInput>\n  21 |             <TextInput source=\"task_name\" fullWidth />\n> 22 |             <RichTextInput source=\"update_text\" fullWidth  width={20px}/>\n     |                                                                     ^\n  23 |             <h3>\n  24 |                 Billing\n  25 |             </h3>\n    at instantiate (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:63:32)\n    at constructor (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:358:12)\n    at FlowParserMixin.raise (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:3207:19)\n    at FlowParserMixin.readNumber (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:3063:18)\n    at FlowParserMixin.getTokenFromCode (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:2817:14)\n    at FlowParserMixin.getTokenFromCode (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6954:11)\n    at FlowParserMixin.getTokenFromCode (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5363:13)\n    at FlowParserMixin.nextToken (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:2331:10)\n    at FlowParserMixin.next (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:2242:10)\n    at FlowParserMixin.jsxParseAttributeValue (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6748:14)\n    at FlowParserMixin.jsxParseAttribute (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6802:38)\n    at FlowParserMixin.jsxParseOpeningElementAfterName (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6816:28)\n    at FlowParserMixin.jsxParseOpeningElementAt (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6811:17)\n    at FlowParserMixin.jsxParseElementAt (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6835:33)\n    at FlowParserMixin.jsxParseElementAt (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6847:32)\n    at FlowParserMixin.jsxParseElementAt (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6847:32)\n    at FlowParserMixin.jsxParseElement (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6904:17)\n    at FlowParserMixin.parseExprAtom (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6916:19)\n    at FlowParserMixin.parseExprSubscripts (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10844:23)\n    at FlowParserMixin.parseUpdate (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10827:21)\n    at FlowParserMixin.parseMaybeUnary (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10803:23)\n    at FlowParserMixin.parseMaybeUnaryOrPrivate (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10641:61)\n    at FlowParserMixin.parseExprOps (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10646:23)\n    at FlowParserMixin.parseMaybeConditional (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10623:23)\n    at FlowParserMixin.parseMaybeAssign (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10584:21)\n    at D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5689:39\n    at FlowParserMixin.tryParse (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:3581:20)\n    at FlowParserMixin.parseMaybeAssign (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5689:18)\n    at D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10554:39\n    at FlowParserMixin.allowInAnd (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:12234:12)\n    at FlowParserMixin.parseMaybeAssignAllowIn (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10554:17)\n    at FlowParserMixin.parseParenAndDistinguishExpression (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:11467:28)\n    at FlowParserMixin.parseParenAndDistinguishExpression (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5788:18)\n    at FlowParserMixin.parseExprAtom (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:11118:23)\n    at FlowParserMixin.parseExprAtom (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:6921:20)\n    at FlowParserMixin.parseExprSubscripts (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10844:23)\n    at FlowParserMixin.parseUpdate (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10827:21)\n    at FlowParserMixin.parseMaybeUnary (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10803:23)\n    at FlowParserMixin.parseMaybeUnaryOrPrivate (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10641:61)\n    at FlowParserMixin.parseExprOps (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10646:23)\n    at FlowParserMixin.parseMaybeConditional (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10623:23)\n    at FlowParserMixin.parseMaybeAssign (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:10584:21)\n    at FlowParserMixin.parseMaybeAssign (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5744:18)\n    at FlowParserMixin.parseFunctionBody (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:11894:24)\n    at D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5051:63\n    at FlowParserMixin.forwardNoArrowParamsConversionAt (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5229:16)\n    at FlowParserMixin.parseFunctionBody (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5051:12)\n    at FlowParserMixin.parseArrowExpression (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:11876:10)\n    at FlowParserMixin.parseParenAndDistinguishExpression (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:11479:12)\n    at FlowParserMixin.parseParenAndDistinguishExpression (D:\\Diljot-Projects\\ERP\\frontend\\erp-frontend\\node_modules\\@babel\\parser\\lib\\index.js:5788:18)"
+}
