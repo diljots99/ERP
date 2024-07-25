@@ -1,0 +1,63 @@
+{
+  "name": "erp-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.4",
+    "@rjsf/core": "^5.12.0",
+    "@rjsf/utils": "^5.12.0",
+    "@rjsf/validator-ajv8": "^5.12.0",
+    "@tanstack/react-query-devtools": "^4.32.6",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "axios": "^1.4.0",
+    "cross-env": "^7.0.3",
+    "customize-cra": "^1.0.0",
+    "ra-data-django-rest-framework": "^0.2.1",
+    "ra-data-json-server": "^4.12.4",
+    "ra-input-rich-text": "^4.12.4",
+    "react": "^18.2.0",
+    "react-admin": "^4.12.4",
+    "react-app-rewired": "^2.2.1",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^5.1.6",
+    "web-vitals": "^2.1.0",
+    "webpack-bundle-tracker": "^2.0.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "start": "cross-env PORT=3010 react-app-rewired start ",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "start-old": "react-scripts start",
+    "build-old": "react-scripts build",
+    "test-old": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
