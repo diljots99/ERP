@@ -8,7 +8,7 @@ from .models import Project
 class ProjectSerializer(ModelSerializer):
     class Meta:
         model = Project
-        fields = ['id', 'name', 'start_date', 'end_date', 'assigned_employees']
+        fields = ['id', 'name', 'start_date', 'end_date', "description",'assigned_employees']
 
         
 

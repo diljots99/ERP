@@ -2,7 +2,7 @@
 Base settings to build other settings files upon.
 """
 from pathlib import Path
-
+import os
 import environ
 
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
@@ -356,6 +356,12 @@ WEBPACK_LOADER = {
         "IGNORE": [r".+\.hot-update.js", r".+\.map"],
     }
 }
+# WEBPACK_LOADER = {
+#     "APP": {
+#         "BUNDLE_DIR_NAME": "bundles_app/",
+#         "STATS_FILE": os.path.join( "frontend", "webpack-stats-app.dev.json"),
+#     }
+# }
 # Your stuff...
 # ------------------------------------------------------------------------------
 

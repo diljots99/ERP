@@ -38,6 +38,7 @@ else:
 router.register("users", UserViewSet)
 router.register("projects", ProjectViewSet)
 router.register("updates", DailyUpdateViewSet)
+router.register("tenats", DailyUpdateViewSet)
 
 
 app_name = "api"
